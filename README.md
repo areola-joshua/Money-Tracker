@@ -1,1 +1,1 @@
-This :rainbow[money-expenses] app keeps track of your expenses.
+This 🌈 money-expenses app keeps track of your expenses.
